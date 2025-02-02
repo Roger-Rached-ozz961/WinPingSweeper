@@ -1,8 +1,8 @@
-# Window Ping Sweeper
+# WinPingSweeper
 
 ## Overview
 
-**Windows IP Sweeper** is a tool for scanning networks and identifying active hosts using ICMP (Ping) and ARP protocols. It can detect live devices in a given network range and save the results for reference.
+**Windows Ping Sweeper** is a tool for scanning networks and identifying active hosts using ICMP (Ping) and ARP protocols. It can detect live devices in a given network range and save the results for reference.
 
 ## Features
 
