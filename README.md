@@ -42,7 +42,7 @@
 1. Run:
 
     ```bash
-    python winping_sweeper.py
+    python WinPingSweeper.py
     ```
 
 2. Choose scan type (ICMP, ARP, or both) and IP range.
