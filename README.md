@@ -16,7 +16,9 @@
 - **Windows OS**
 - **Python 3.x** 
 - **Third-party libraries**: `tqdm`, `colorama`
-- **arp-ping.exe**: Download from [here](https://github.com/benjamingr/arp-ping).
+- **arp-ping.exe**: Download from [here](https://github.com/benjamingr/arp-ping). 
+
+Kindly note: arp-ping.exe executable has to be in the same file directory of the script.
 
 ## Installation
 
